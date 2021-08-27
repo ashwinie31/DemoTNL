@@ -11,6 +11,7 @@ public class Base {
 	public static Logger log=Logger.getLogger(Base.class);
 	
 	public static WebDriver driver;
+	
 	public static ConfigurationReader reader;
 	
 	

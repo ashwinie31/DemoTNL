@@ -17,7 +17,7 @@ import io.cucumber.junit.CucumberOptions;
                   // tags=  "@Orders"                              // Here curly bracket {} get an errors so doesn't use curly bracket
  )
 
-public class Runner {
+public class TestRunner {
 	
 
 }
